@@ -16,4 +16,3 @@
 <li>O usuário decide finalizar ou não o programa
 
 
-<h4>Coming soon</h4>
